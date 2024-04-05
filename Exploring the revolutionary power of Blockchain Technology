@@ -1,0 +1,22 @@
+Blockchain technology is an advanced database mechanism that allows transparent information sharing within a network. This aspect reduces the need for trusted third parties which are usually auditors or other humans that add costs and make mistakes.
+KEY TAKEAWAYS
+Blockchain is a type of shared database that differs from a typical database in the way it stores information; Different types of information can be stored on a blockchain, but the most common use actions has been as a ledger For Bitcoin transactions are permanently recorded and viewable to but the key difference between a traditional database or spreadsheet and a blockchain is how the data is structured and accessed and accessing information and saving and storing it somewhere. Once it is full the information is run through an encryption
+Is Blockchain Secure?
+Blockchain technology achieves decentralized security and trust in several ways. That is they are always added to the “end” of the blockchain. After a block has been added to the end of the blockchain, previous blocks cannot be changed.
+A change in any data changes the hash of the block it was in. Because each block contains the previous block's hash, a change in one would change the following blocks.
+Not allare100%impenetrable. They are distributed ledgers that use code to create the security level they have become known for. If there are vulnerabilities in the coding, they can be exploited.
+For instance, imagine that a hacker runs a node on a blockchain network and wants to alter a blockchain and steal cryptocurrency from everyone else.
+The four main types of blockchain technology are,
+1) Public
+2) Private
+3) Consortium
+4) Hybrid.
+Public blockchains:
+The most well-known type is public blockchains are open and decentralized networks that allow anyone to participate and view transactions. These blockchains operate on a distributed ledger system, where multiple nodes validate and record transactions.
+Private blockchains:
+Ideal for managing internal organizational processes, private blockchains are extensively used in supply chain management to ensure efficiency and transparency. They also facilitate internal
+voting mechanisms, guaranteeing secure and transparent decision-making processes within organisations
+Consortium blockchains:
+A type of blockchain that bridges the gap between public and private networks, consortium blockchains are suitable for industries with multiple stakeholders, such as finance, healthcare, and supply chain.
+Hybrid blockchains:
+A combination of the private and public blockchain, hybrid blockchains are semi-private or partly permission less and partly permissioned. This gives them a greater degree of flexibility, as some data can be made private, while other data can be opened to the public at the same time.
